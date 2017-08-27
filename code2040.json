@@ -1,0 +1,145 @@
+{
+  "firstname": "Thapelo",
+  "lastname": "Sebolai",
+  "contact": {
+    "email": "tsebolai@stanford.edu",
+    "phone": "(650) 250-6913",
+    "website": "tsebolai.me",
+    "linkedin": "linkedin.com/in/thapelo-sebolai/",
+    "github": "github.com/thapz123"
+  },
+  "skills": {
+    "details": [
+      {
+        "type": "Programming Languages",
+        "items": ["Java", "C++", "Javascript", "C"]
+      },
+      {
+        "type": "Web Frameworks",
+        "items": ["React", "Meteor", "React Native", "JQuery"]
+      },
+      {
+        "type": "Databases",
+        "items": ["MongoDB"]
+      },
+      {
+        "type": "Tools",
+        "items": [
+          "Git",
+          "Heroku",
+          "Vim",
+          "UNIX",
+          "SublimeText",
+          "VSCode",
+          "WebStorm"
+        ]
+      },
+      {
+        "type": "Interests",
+        "items": [
+          "Big Data",
+          "Machine Learning",
+          "Web Development",
+          "Artificial Intelligence"
+        ]
+      }
+    ]
+  },
+  "github_projects": {
+    "items": [
+      {
+        "project_name": "chenshuiluke/ng-hackernews",
+        "tagline": "[ng-hackernews.lukecs.com](https://ng-hackernews.lukecs.com/)",
+        "description": [
+          "Browse HackerNews without having to open tabs to view comments or having to click to go to the next page."
+        ],
+        "technology_used": {
+          "tools": ["Python", "Django", "PostgreSQL"]
+        }
+      },
+      {
+        "project_name": "AdiChat/Repository-Hunter",
+        "tagline": "[repository-hunter.herokuapp.com](http://repository-hunter.herokuapp.com/)",
+        "description": ["Making GitHub more socially engaging and fun for all"],
+        "technology_used": {
+          "tools": ["Python", "Django", "PostgreSQL"]
+        }
+      }
+    ]
+  },
+  "other_projects": {
+    "items": [
+      {
+        "headline": "Designed a silent slackbot called _Omerta_, for a school project.",
+        "points": ["Was awarded 1<sup>st</sup> prize for brevity of code."],
+        "technology_used": {
+          "tools": ["Python", "Django", "PostgreSQL"]
+        }
+      }
+    ]
+  },
+  "work_experience": {
+    "items": [
+      {
+        "title": "Code2040 Summer Fellow 2017",
+        "organisation": "Intel",
+        "location": "San Francisco, CA",
+        "from": "June 2017",
+        "to": "August 2017",
+        "details": [
+          "Wrote an open source ruby gem _Skipper_ that coordinates automated deployment over websocket. Live at <<skippergem.io>>"
+        ],
+        "technology_used": {
+          "tools": ["Python", "Django", "PostgreSQL"]
+        }
+      }
+    ]
+  },
+  "involvement": {
+    "organizations": [
+      "Volunteer Teacher, Addictest SAT Center, Morrocco's most prominent resource for students wishing to study abroad, Rabat, Morrocco, Summer 2017",
+      "Core Member, Black in CS, Stanford's premier organization that helps expose people of color to computer science, Spring 2017 to Present",
+      "Volunteer Teacher, BUILD Entrepreneurship Camp, Taught design thinking skills to 20 Zimbabwean students, Harare Zimbabwe, Summer 2015"
+    ]
+  },
+  "achievements": {
+    "items": [
+      "Placed in top 50 in the South African National Science Olympiad, April 2016",
+      "President, Coding and Robotics Club, 2015-2017"
+    ]
+  },
+  "additional_info": {
+    "items": [
+      "Languages: English (fluent), Afrikaans (fluent),  Dutch (business), French (basic)",
+      "Interests: Singing, Guitar, Reading"
+    ]
+  },
+  "education": {
+    "schools": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Computer Science: Artificial Intelligence",
+        "institution": "Stanford University",
+        "graduation_year": 2020
+      }
+    ]
+  },
+  "undergrad_courses": [
+    {
+      "name": "Programming Abstractions in C++",
+      "url": "http://web.stanford.edu/class/cs106b/"
+    },
+    {
+      "name": "Computer Organization & Systems",
+      "url": "http://web.stanford.edu/class/cs107/"
+    },
+    {
+      "name": "Web Programming Fundamentals",
+      "url": "http://web.stanford.edu/class/cs193x/"
+    }
+  ],
+  "grad_courses": [{}],
+  "research_experience": {
+    "items": []
+  }
+}
